@@ -1,3 +1,13 @@
+# CI/CD Lab
+
+
+
+<p align="center">
+  <a href="https://github.com/amiin-dev/cicd-lab"><img src="https://img.shields.io/badge/GitHub-cicd-lab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository"></a>
+  <img src="https://img.shields.io/badge/README-✨%20polished-7C3AED?style=for-the-badge&logo=markdown&logoColor=white" alt="Polished README">
+  <img src="https://img.shields.io/badge/Maintained-by%20Amiin-0B2545?style=for-the-badge&logo=github&logoColor=white" alt="Maintained by Amiin">
+</p>
+
 # CI/CD Lab Starter
 
 A small Express and TypeScript app for the CI/CD Crash Course. Use this starting point to follow along with automated testing, GitHub Actions, and deployment to Render.
