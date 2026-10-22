@@ -4,8 +4,6 @@
 
 </div>
 
-# CI/CD Lab
-
 
 # CI/CD Lab Starter
 
